@@ -9,8 +9,8 @@ spec:
     server: https://kubernetes.default.svc
   source:
     path: deployment/manifests/if-demo
-    repoURL: https://github.com/VivianDim/informatica-feminale.git
-    targetRevision: 04_gitops
+    repoURL: https://github.com/slaudi/informatica_feminale.git
+    targetRevision: main
     helm:
       releaseName: if-demo
   sources: []

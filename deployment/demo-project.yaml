@@ -5,7 +5,7 @@ metadata:
   namespace: argocd
 spec:
   sourceRepos:
-    - https://github.com/VivianDim/informatica-feminale.git
+    - https://github.com/slaudi/informatica_feminale.git
   destinations:
     - namespace: dev
       server: https://kubernetes.default.svc
