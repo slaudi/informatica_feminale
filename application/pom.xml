@@ -8,7 +8,7 @@
         <version>3.5.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.informatica-feminale</groupId>
+    <groupId>com.informatica-feminale.demo</groupId>
     <artifactId>if-demo</artifactId>
     <version>1.0.1</version>
     <name>if-demo</name>
